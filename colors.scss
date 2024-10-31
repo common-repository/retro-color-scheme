@@ -1,0 +1,8 @@
+$base-color: #f14668;
+$highlight-color: #6b011f;
+$notification-color: #ffd880;
+$low-contrast-theme: "true";
+
+$form-checked: $base-color;
+
+@import "_admin.scss";
